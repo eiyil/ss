@@ -9,8 +9,8 @@
         "pyrogram"
     ],
     "website": "https://t.me/rrrbe",
-    "repository": "https://github.com/eiyil/-",
-    "success_url": "https://t.me/hama_refaat",
+    "repository": "https://github.com/eiyil/ss",
+    "success_url": "https://t.me/rrrbe",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
